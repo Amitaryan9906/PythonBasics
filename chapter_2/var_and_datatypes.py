@@ -1,0 +1,19 @@
+a='''amit'''
+b=21
+c=2.2
+d=True
+e=False
+f=None
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
+#printin the type of variable
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
